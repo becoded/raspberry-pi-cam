@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Camera
+Comment=Camera
+Icon=/home/pi/camera/icons/camera.png
+Exec=lxterminal -t "IR on" --geometry=75x20 -e "/home/pi/camera/scripts/camera.sh"
+Type=Application
+Terminal=false
+Categories=None;

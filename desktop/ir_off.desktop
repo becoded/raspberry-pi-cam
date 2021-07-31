@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=IR off
+Comment=IR off
+Icon=/home/pi/camera/icons/light_bulb_off.png
+Exec=lxterminal -t "IR off" --geometry=75x20 -e "/home/pi/camera/scripts/ir_off.sh"
+Type=Application
+Terminal=false
+Categories=None;

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=IR on
+Comment=IR on
+Icon=/home/pi/camera/icons/light_bulb_on.png
+Exec=lxterminal -t "IR on" --geometry=75x20 -e "/home/pi/camera/scripts/ir_on.sh"
+Type=Application
+Terminal=false
+Categories=None;
